@@ -1,0 +1,5 @@
+LegalDocId,CptyId,Nettable,Collateralizable,CollateralBalance
+CPTY_A_NoDoc,CPTY_A,N,N,0
+CPTY_A_Closeout,CPTY_A,Y,N,0
+CPTY_A_CSA,CPTY_A,Y,Y,5000
+CPTY_B_NoDoc,CPTY_B,N,N,0
